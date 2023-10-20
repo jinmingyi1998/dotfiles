@@ -182,3 +182,7 @@ alias cbc='clipcopy'
 alias cbp='clippaste'
 
 alias sconda='source $HOME/miniconda3/bin/activate'
+
+alias ssr='shadowsocksr-cli'
+
+alias tmux='tmux -2'
