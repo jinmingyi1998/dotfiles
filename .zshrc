@@ -186,3 +186,6 @@ alias sconda='source $HOME/miniconda3/bin/activate'
 alias ssr='shadowsocksr-cli'
 
 alias tmux='tmux -2'
+
+source proxy.sh
+
